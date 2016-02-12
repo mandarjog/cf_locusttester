@@ -1,5 +1,5 @@
 # cf_locusttester
-push locust as a cf apps for performance tests
+push locust as a cf app for performance tests
 
 
 ## Minimally set TEST_URL
