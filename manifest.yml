@@ -1,0 +1,5 @@
+---
+applications:
+- name: locust_tester
+  memory: 128M
+  buildpack: python_buildpack
